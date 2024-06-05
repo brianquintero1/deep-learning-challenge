@@ -1,2 +1,4 @@
 # deep-learning-challenge
 Module 21 Challenge
+
+This module was created from a csv file containing more than 34,000 records of historical data related to organizations that had previously received funding from Alphabet Soup. The dataset also contained columns with metadata about each funded organization to help train the model. The target variable was the binary 'IS_SUCCESSFUL' column which indicates whether the funds were used effectively by the funded organization. The process started by reading the csv data into Pandas in order to create a dataframe to begin data preprocessing, data wrangling, and finally the creation, training, and evaluation of the model. These processes are described in detail inside of the Charity_Report markdown file. A summary of the overall results is also provided to explain the final findings. The code is provided inside of the Deep_Learning_Code_BrianQuintero Jupyter notebook file.
